@@ -24,3 +24,15 @@ nbdist/
 .nb-gradle/
 /mvnw
 /mvnw.cmd
+
+.mvn/wrapper/maven-wrapper.jar
+
+src/.DS_Store
+
+mvnw.cmd
+
+mvnw
+
+.mvn/wrapper/maven-wrapper.properties
+
+.DS_Store
